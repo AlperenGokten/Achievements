@@ -1,1 +1,1 @@
-# proje-2.py
+# 2 projem
